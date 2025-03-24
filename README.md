@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amillssma
 - 👀 I’m interested in coding, python, astropy, astroplan and more
 - 🌱 I’m currently working on becoming PCEP certified in python (update: Achieved entry level PCEP certification)
+      (Update: Achieved associate level PCEP certification)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
